@@ -1,0 +1,24 @@
+[
+  {
+    "_id": "6978937cbad2c366bb95074c",
+    "author": "69788f532cd57a44a6cffb87",
+    "post": "69788e7f9b7ffbe8f9f1220f",
+    "content": "nataka hii beast, what's your number",
+    "parentComment": null,
+    "likes": [],
+    "isHidden": false,
+    "createdAt": "2026-01-27T10:29:16.988Z",
+    "updatedAt": "2026-01-27T10:29:16.988Z"
+  },
+  {
+    "_id": "6978954064e7c3b4c8b4e37c",
+    "author": "69788f532cd57a44a6cffb87",
+    "post": "69788e7f9b7ffbe8f9f1220f",
+    "content": "need this one",
+    "parentComment": null,
+    "likes": [],
+    "isHidden": false,
+    "createdAt": "2026-01-27T10:36:48.553Z",
+    "updatedAt": "2026-01-27T10:36:48.553Z"
+  }
+]

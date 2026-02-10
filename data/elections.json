@@ -1,0 +1,68 @@
+[
+  {
+    "_id": "6977d7facd6a907bab146c44",
+    "title": "Student Union President 2026",
+    "description": "Election for the next Student Union President. The president represents all students and leads the Student Union Executive Council.",
+    "position": "President",
+    "type": "general",
+    "startDate": "2026-01-25T21:09:14.525Z",
+    "endDate": "2026-01-31T21:09:14.525Z",
+    "status": "active",
+    "createdBy": "6977d7f8703d24ceec19909c",
+    "candidates": [
+      {
+        "user": "6977d7f9a7ae1eb54dcdfb27",
+        "name": "Ahmed Okonkwo",
+        "manifesto": "I promise to fight for better facilities, more student events, and improved cafeteria services.",
+        "votes": 131
+      },
+      {
+        "user": "6977d7f9ad92014e9bb9e26f",
+        "name": "Zainab Ibrahim",
+        "manifesto": "My focus is on mental health support, academic excellence, and building a stronger community.",
+        "votes": 153
+      }
+    ],
+    "voterCount": 0,
+    "totalEligibleVoters": 500,
+    "voters": [],
+    "eligibility": {},
+    "maxVotes": 1,
+    "isActive": true,
+    "createdAt": "2026-01-26T21:09:14.525Z",
+    "updatedAt": "2026-01-26T21:09:14.525Z"
+  },
+  {
+    "_id": "6977d7fa1ff6cf189f14536a",
+    "title": "VP Academic Affairs 2026",
+    "description": "Election for Vice President of Academic Affairs. Responsible for representing student academic interests.",
+    "position": "Vice President Academic",
+    "type": "general",
+    "startDate": "2026-01-25T21:09:14.525Z",
+    "endDate": "2026-01-31T21:09:14.525Z",
+    "status": "active",
+    "createdBy": "6977d7f8703d24ceec19909c",
+    "candidates": [
+      {
+        "user": "6977d7f960de7942883da991",
+        "name": "David Chen",
+        "manifesto": "I will push for curriculum updates, more lab hours, and better industry partnerships.",
+        "votes": 120
+      },
+      {
+        "user": "6977d7f9ad92014e9bb9e26f",
+        "name": "Maria Santos",
+        "manifesto": "Academic support programs, tutoring services, and research opportunities for all.",
+        "votes": 177
+      }
+    ],
+    "voterCount": 0,
+    "totalEligibleVoters": 500,
+    "voters": [],
+    "eligibility": {},
+    "maxVotes": 1,
+    "isActive": true,
+    "createdAt": "2026-01-26T21:09:14.525Z",
+    "updatedAt": "2026-01-26T21:09:14.525Z"
+  }
+]
